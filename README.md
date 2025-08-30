@@ -43,7 +43,7 @@ code/
 
 ## 🚀 How to Run
 1. RUN on EDAplayer.
-   https://www.edaplayground.com/x/s5gX
+   * https://www.edaplayground.com/x/s5gX
 
 ## 📊 Results
 
@@ -51,7 +51,3 @@ code/
 * All assertions passed successfully with no design violations.
 * Verified instruction execution, hazard detection, and pipeline control under randomized and directed tests.
 
-
-
-Do you want me to add those visuals?
-```
