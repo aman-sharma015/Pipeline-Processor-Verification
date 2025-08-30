@@ -42,9 +42,8 @@ code/
 - **Version Control**: Git, GitHub
 
 ## 🚀 How to Run
-1. RUN on EDAplayer
+1. RUN on EDAplayer.
    https://www.edaplayground.com/x/s5gX
-   ```
 
 ## 📊 Results
 
