@@ -42,23 +42,8 @@ code/
 - **Version Control**: Git, GitHub
 
 ## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aman-sharma03/Pipeline-Processor-Verification.git
-   cd Pipeline-Processor-Verification/code
-````
-
-2. Open in QuestaSim/ModelSim.
-3. Compile RTL and testbench files:
-
-   ```tcl
-   vlog processor/*.sv tb/**/*.sv
-   ```
-4. Simulate:
-
-   ```tcl
-   vsim work.top_tb
-   run -all
+1. RUN on EDAplayer
+   https://www.edaplayground.com/x/s5gX
    ```
 
 ## 📊 Results
