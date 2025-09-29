@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   15:06:09 02/15/2015
-// Design Name:   Main_Processor
-// Module Name:   D:/Non_working/Main_Processor3/stg_final.v
-// Project Name:  Main_Processor3
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: Main_Processor
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module stg_final;
 
 	// Inputs
